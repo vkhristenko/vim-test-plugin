@@ -4,4 +4,4 @@ export def HelloWorld()
     echo "Hello, World!"
 enddef
 
-command! HelloWord call HelloWord()
+command! HelloWorld call HelloWorld()
