@@ -1,6 +1,6 @@
 vim9script
 
-def TestOpenTerminals()
+export def TestOpenTerminals()
     # open a horizontal split at the bottom
     split 
     terminal
